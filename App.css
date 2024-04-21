@@ -1,0 +1,44 @@
+/* App.css */
+.app-container {
+    margin: 20px;
+    background-color: bisque;
+  }
+  
+  /* RepositoryList.css */
+  .repository-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .repo-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .repo-link {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  .repo-link:hover {
+    text-decoration: underline;
+  }
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    list-style-type: style disc;;
+    padding: 20px;
+    list-style-type: none;
+    
+  }
+  
+  .Repo-detail {
+    color: black
+  }
